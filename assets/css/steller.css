@@ -5091,6 +5091,16 @@ input[type="button"].btn-block {
   margin-bottom: 0;
 }
 
+.card-text {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
 .card-text:last-child {
   margin-bottom: 0;
 }
