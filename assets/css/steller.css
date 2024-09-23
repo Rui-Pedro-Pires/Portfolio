@@ -11683,3 +11683,11 @@ pre {
   transform: translateX(-50%);
   white-space: nowrap;
 }
+
+#more-projects {
+  display: none;
+}
+
+#show-more {
+  cursor: pointer;
+}
