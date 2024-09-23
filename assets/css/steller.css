@@ -4592,8 +4592,8 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.7rem;
-  padding-bottom: 0.7rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
@@ -11370,7 +11370,7 @@ pre {
 }
 
 .navbar .navbar-nav .nav-link {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   margin: 0 10px;
   -webkit-transition: all 0.3s;
