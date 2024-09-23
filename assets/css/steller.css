@@ -11654,3 +11654,11 @@ pre {
 .section.bg-gray {
   background: white;
 }
+
+#more-projects {
+  display: none;
+}
+
+#show-more {
+  cursor: pointer;
+}
