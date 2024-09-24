@@ -21,4 +21,11 @@ $(document).ready(function() {
             $(this).text('Show More...');
         }
     });
+
+    let startDate = new Date("2023-08-15");
+    let currentDate = new Date();
+    let timeDiff = Math.abs(currentDate.getTime() - startDate.getTime());
+    let diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); 
+    let numberOfCoffees = diffDays * 3;
+    document.getElementById("coffee-number").innerText = numberOfCoffees;
 });
