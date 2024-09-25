@@ -7,10 +7,12 @@ This is my personal portfolio website where I showcase all the projects I have w
 ---
 
 ### Home Page
+
 <img src="https://github.com/Rui-Pedro-Pires/Portfolio/blob/main/Screenshot%20from%202024-09-25%2013-21-07.png">
 
 ---
 ### Porfolio Page
+
 <img src="https://github.com/Rui-Pedro-Pires/Portfolio/blob/main/Screenshot%20from%202024-09-25%2013-21-14.png">
 
 ---
