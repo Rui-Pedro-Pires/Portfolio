@@ -4,6 +4,16 @@
 
 This is my personal portfolio website where I showcase all the projects I have worked on throughout my journey as a developer. The portfolio includes projects from the **42 Common Core**, various **Hackathons**, and **Open-Source contributions**.
 
+---
+
+<img src="">
+
+---
+
+<img src="">
+
+---
+
 ## Sections
 
 ### 1. **42 Common Core Projects**
