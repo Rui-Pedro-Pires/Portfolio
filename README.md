@@ -4,18 +4,12 @@
 
 This is my personal portfolio website where I showcase all the projects I have worked on throughout my journey as a developer. The portfolio includes projects from the **42 Common Core**, various **Hackathons**, and **Open-Source contributions**.
 
----
-
 ### Home Page
 
 <img src="https://github.com/Rui-Pedro-Pires/Portfolio/blob/main/Screenshot%20from%202024-09-25%2013-21-07.png">
-
----
 ### Porfolio Page
 
 <img src="https://github.com/Rui-Pedro-Pires/Portfolio/blob/main/Screenshot%20from%202024-09-25%2013-21-14.png">
-
----
 
 ## Sections
 
