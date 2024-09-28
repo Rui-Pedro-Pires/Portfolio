@@ -36,7 +36,6 @@ This is my personal portfolio website where I showcase all the projects I have w
 
 The website is built using:
 - **HTML5**, **CSS3**, and **JavaScript** for front-end design and interactivity.
-- **React** to manage the dynamic sections and improve user experience.
 
 ## Contact
 
